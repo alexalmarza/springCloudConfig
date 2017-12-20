@@ -1,0 +1,14 @@
+email:
+    host: smtp.live.com
+    port: 25
+    username: cyberalmarza@hotmail.com
+    password: Figueres_83
+
+server:
+    port: 9091
+
+spring: 
+    rabbitmq:
+        host: localhost
+        port: 5672
+
